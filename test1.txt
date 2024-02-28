@@ -1,1 +1,2 @@
 This is a firt test file for testing git
+made changes here in file 1

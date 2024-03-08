@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 File 4 created on master
+=======
+File on new branch
+changes made
+created on testbranch
+>>>>>>> testbranch

@@ -1,2 +1,1 @@
-this is file3 for git
-changes made here after staging
+this file3 for git

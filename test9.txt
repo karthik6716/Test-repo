@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 file 9 on master
-=======
 file 9 created on remote
->>>>>>> 2083ce92e6c23db3aa05028598f3e6dee441ae28
